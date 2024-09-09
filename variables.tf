@@ -11,5 +11,5 @@ variable "GOOGLE_PROJECT_ID" {
 variable "GOOGLE_REGION" {
   description = "GCP region"
   type        = string
-  default     = "us-central1"
+  default     = "us-central1-f"
 }
